@@ -1,5 +1,5 @@
 # Muisc Synthesis
-## THUEE MATLAB音乐合成大作业
+## Tsinghua EE Matlab Project
 
 ### 文件清单：
 
