@@ -4,6 +4,7 @@
 ### 文件清单：
 
     README.md			说明文档
+    音乐合成大作业.pdf    作业说明文档
     music_1.m			练习1
     music_2.m			练习2
     music_3.m			练习3
